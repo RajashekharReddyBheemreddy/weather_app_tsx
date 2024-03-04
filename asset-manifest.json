@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/weather_app_tsx/static/js/main.043c0e48.js",
+    "index.html": "/weather_app_tsx/index.html",
+    "main.043c0e48.js.map": "/weather_app_tsx/static/js/main.043c0e48.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.043c0e48.js"
+  ]
+}
